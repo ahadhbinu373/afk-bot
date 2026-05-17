@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":Wsmpseason1.aternos.me,
+    "ip":"Wsmpseason1.aternos.me,
     "port": 39685,
     "version": "",
     "try-creative": false
